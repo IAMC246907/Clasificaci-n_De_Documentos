@@ -1,13 +1,13 @@
 # Clasificador de Documentos (Procesamiento del Lenguaje Natural)
 
 ## Descripción del Proyecto
-Este proyecto, desarrollado como parte de un Proyecto Capstone en colaboración con Alejandro Vera para obtener el grado de Diplomado en IA, se enfocó en la clasificación de documentación de clientes en una empresa de consultoría tecnológica.
+Este proyecto, fue desarrollado como parte de un Proyecto Capstone en colaboración con Alejandro Vera para obtener el grado de Diplomado en IA, se enfocó en la clasificación de documentación de clientes en una empresa de consultoría tecnológica.
 
 ## Problema Abordado
 El proyecto se originó debido a la pérdida de documentación no estructurada de usuarios y clientes en la empresa consultora.
 
 ## Datos y Entrenamiento del Modelo
-La data de documento no puede ser compartida por razones de ciberseguridad. Se recomienda a los usuarios interesados en entrenar el modelo utilizar un mínimo de 50,000 documentos separados por categorías. 
+La data de documentos no puede ser compartida por razones de ciberseguridad. Se recomienda a los usuarios interesados en entrenar el modelo utilizar un mínimo de 50,000 documentos separados por categorías. 
 
 ## Modelos de Aprendizaje Automático Utilizados
 Se emplearon varios modelos de aprendizaje automático, incluyendo:
