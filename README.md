@@ -27,7 +27,9 @@ El desarrollo e implementación del prototipo se llevó a cabo en las siguientes
 # Instrucciones de Acceso al Código
 
 ## Repositorio
-El archivo con el código está disponible en el repositorio bajo el nombre "clasificador". Se sugiere clonar o descargar este repositorio para acceder al código.
+El archivo con el código no pudo ser alojado en el repositorio de GitHub debido a limitaciones de espacio. Sin embargo, el código está disponible para su acceso y descarga a través del siguiente enlace en Google Drive: [Enlace al Código en Google Drive](https://drive.google.com/drive/folders/1AeVCKgpDLWBkXCFhgJuNl5btixgOHKZA?usp=sharing).
+
+Se recomienda utilizar este enlace para acceder al código del proyecto.
 
 ## Visual Studio Code
 Se recomienda el uso de Visual Studio Code para una mejor experiencia al trabajar con el código. Este entorno de desarrollo proporciona diversas herramientas y funcionalidades útiles para la programación.
